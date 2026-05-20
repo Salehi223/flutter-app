@@ -1,7 +1,5 @@
 this is f2.txt
 
-
 this is frm local
 
-
-lin2 #3
+lin2 3
